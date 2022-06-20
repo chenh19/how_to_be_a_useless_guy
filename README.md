@@ -12,4 +12,4 @@ This will be a repo about me. I'll try to post some useless things here.
 - [ ] [HugoDown](https://hugodown.r-lib.org/)
 - [ ] [Distill](https://rstudio.github.io/distill/)
 
-(Not very interested to look into python for now)
+(Not very interested in looking into python for now)
