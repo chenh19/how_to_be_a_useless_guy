@@ -11,5 +11,6 @@ This will be a repo about me. I'll try to post some useless things here.
 - [ ] [BlogDown](https://bookdown.org/yihui/blogdown/)
 - [ ] [HugoDown](https://hugodown.r-lib.org/)
 - [ ] [Distill](https://rstudio.github.io/distill/)
+- [ ] [Bookdown](https://bookdown.org/)
 
 (Not very interested in looking into python for now)
