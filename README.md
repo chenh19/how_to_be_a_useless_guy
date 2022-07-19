@@ -12,6 +12,7 @@ This will be a repo about me. I'll try to post some useless things here.
 - [ ] [HugoDown](https://hugodown.r-lib.org/)
 - [ ] [Distill](https://rstudio.github.io/distill/)
 - [ ] [Bookdown](https://bookdown.org/)
+- [ ] [pkgdown](https://pkgdown.r-lib.org/)
 - [ ] [ReadtheDocs](https://readthedocs.org/)
 
 (Not very interested in looking into python for now)
